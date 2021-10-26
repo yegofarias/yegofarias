@@ -1,6 +1,6 @@
 ### Oii eu sou Yego Farias 👋
 
-- 👨‍🎓 Atualmente estou me graduando na Estácio 
+- 👨‍🎓 Estou me graduando na Estácio 
 - 🌱 Aprendendo: Javascript, Java e Python
 - 💻 Em busca de crescer profissionalmente
 
